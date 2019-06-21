@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Unreal Engine4
+Binaries
+DerivedDataCache
+Intermedidate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.idea
